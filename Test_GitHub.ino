@@ -14,9 +14,9 @@ BearSSL::CertStore certStore;
 
 /* Set up values for your repository and binary names */
 #define GHOTA_USER "Alex-ino"
-#define GHOTA_REPO "Test_GitHub"
+#define GHOTA_REPO "Test-GitHub"
 #define GHOTA_CURRENT_TAG "0.0.0"
-#define GHOTA_BIN_FILE "Test_GitHub.ino.bin"
+#define GHOTA_BIN_FILE "Test_GitHub.ino.nodemcu.bin"
 #define GHOTA_ACCEPT_PRERELEASE 0
 #define HARDWARE_LED 2  /// GPIO02 /// D4 /// change according where your ESP8266 board LED is connected to
 
