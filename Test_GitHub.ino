@@ -2,8 +2,8 @@
 #include <FS.h>
 
 #ifndef STASSID
-#define STASSID "beltel 19/103"
-#define STAPSK "151479742"
+#define STASSID "xxxxxxxxx"
+#define STAPSK "xxxxxxxxx"
 #endif
 
 // A single, global CertStore which can be used by all
